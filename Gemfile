@@ -20,6 +20,7 @@ gem 'simple_form', '~> 3.4'
 gem 'devise'
 gem 'paperclip', '~> 5.1'
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.10.0'
 
 group :development, :test do
   gem 'byebug', platform: :mri

@@ -19,7 +19,7 @@ gem 'boostrap-sass', '~> 0.0.2'
 gem 'simple_form', '~> 3.4'
 gem 'devise'
 gem 'paperclip', '~> 5.1'
-
+gem 'masonry-rails'
 
 group :development, :test do
   gem 'byebug', platform: :mri

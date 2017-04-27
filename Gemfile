@@ -18,6 +18,7 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'boostrap-sass', '~> 0.0.2'
 gem 'simple_form', '~> 3.4'
 gem 'devise'
+gem 'paperclip', '~> 5.1'
 
 
 group :development, :test do
